@@ -1,4 +1,4 @@
-This folder includes Data Science projects from Codecademy. 
+This folder includes Data Science projects from Codecademy. My solutions are in Jupyter Notebook format, and all the outputs have been cleared.
 
 Order of completion:
 1. fridakahlo
