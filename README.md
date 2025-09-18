@@ -1,12 +1,12 @@
 This folder includes Data Science projects from Codecademy. My solutions are in Jupyter Notebook format, and all the outputs have been cleared.
 
-Order of completion:
-1. fridakahlo
-2. Python Strings Medical Insurance
-3. coded-correspondence
-4. Hurricane Analysis
-5. Python Dictionaries Medical Insurance
-6. reggiess_linear_regression
+Order of completion (month):
+1. fridakahlo  (February 2025)
+2. Python Strings Medical Insurance  (March 2025)
+3. coded-correspondence  (March 2025)
+4. Hurricane Analysis  (March 2025)
+5. Python Dictionaries Medical Insurance  (March 2025)
+6. reggiess_linear_regression (March 2025)
 7. python-portfolio-project-starter-files
 8. Page_Visits_Funnel_Project
 9. this_is_jeopardy_JN
