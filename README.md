@@ -7,7 +7,7 @@ Order of completion (month):
 4. Hurricane Analysis  (March 2025)
 5. Python Dictionaries Medical Insurance  (March 2025)
 6. reggiess_linear_regression (March 2025)
-7. python-portfolio-project-starter-files
+7. python-portfolio-project-starter-files  (March 2025)
 8. Page_Visits_Funnel_Project
 9. this_is_jeopardy_JN
 10. EDA Diagnosing Diabetes
