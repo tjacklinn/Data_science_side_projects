@@ -15,3 +15,5 @@ Order of completion (month):
 12. Exploring Mushrooms                     (August 2025)
 13. Airline Analysis                        (August 2025)
 14. Life-Expectancy-and-GDP-Starter	    (October 2025)
+15. Cleaning US Census Data		    (November 2025)
+
