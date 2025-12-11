@@ -17,5 +17,3 @@ Order of completion (month):
 14. Life-Expectancy-and-GDP-Starter	    (October 2025)
 15. Cleaning US Census Data		    (November 2025)
 16. biodiversity-starter		    (November 2025)
-17. Python Classes Medical Insurance	    (December 2025)
-
